@@ -1,6 +1,7 @@
 package br.com.digitalhouse.exercicios.exercicio02
 
 fun main() {
+    //atualização rodolfo
 
     try {
         val lista = ArrayList<String>(null)
