@@ -8,7 +8,10 @@ fun main() {
     try {
         println(lista.get(3))
     }catch (ex: Exception){
-        println("Ocorreu uma exeção: ${ex.message}")
+        println("Ocorreu uma exceção: ${ex.message}")
         ex.stackTrace
     }
+
+    println("Yuri estava aqui.")
+
 }

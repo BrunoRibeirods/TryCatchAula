@@ -13,4 +13,7 @@ fun main() {
         println("Causa: ${ex.cause}")
     }
 
+    println("Yuri estava aqui.")
+
+
 }
